@@ -1,0 +1,24 @@
+{
+  "name": "authenicate-qrcode",
+  "version": "1.0.0",
+  "description": "Authenticating users with a QR Code in NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taibuharoub/authenicate-qrcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taibuharoub/authenicate-qrcode/issues"
+  },
+  "homepage": "https://github.com/taibuharoub/authenicate-qrcode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
