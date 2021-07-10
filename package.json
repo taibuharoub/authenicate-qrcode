@@ -20,6 +20,8 @@
   "homepage": "https://github.com/taibuharoub/authenicate-qrcode#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.13.2"
+    "mongoose": "^5.13.2",
+    "qrcode": "^1.4.4",
+    "qrcode-reader": "^1.0.4"
   }
 }
